@@ -1,4 +1,4 @@
-[👉 click here to login Netflix](https://ilkerkr.github.io/Parallax/)
+[👉 click here to login Parallax](https://ilkerkr.github.io/Parallax/)
 
 # Project-002 : Parallax Website (HC-02)
 
