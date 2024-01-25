@@ -1,6 +1,8 @@
-[👉 click here to login Parallax](https://ilkerkr.github.io/Parallax/)
+# Parallax Website
 
-# Project-002 : Parallax Website (HC-02)
+![Parallax gif](./img/clarusway.gif)
+
+[👉 click here to login Parallax](https://ilkerkr.github.io/Parallax/)
 
 ## Description
 Project aims to create parallax website.
