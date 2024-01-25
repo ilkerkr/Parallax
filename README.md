@@ -12,9 +12,9 @@ Project aims to create parallax website.
 |
 |----readme.md                  
 |----images               
-        |----index.html  
-        |----style.css   
-        |----images
+|----index.html  
+|----parallax.css   
+        
 ```
 
 ### At the end of the project, following topics are to be covered;
